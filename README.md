@@ -34,11 +34,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![George's GitHub stats](https://github-readme-stats.vercel.app/api?username=xm-george\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
 
 ## ⚙️ What I'm Working On
 
