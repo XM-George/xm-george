@@ -1,54 +1,56 @@
-# Hi there 👋 I'm George
+# Hey there! I'm George 👋
 
-🎓 Junior Developer | 💻 Actively looking for my first opportunity
+### 💻 Computer Science Student @ Aristotle University of Thessaloniki
 
----
+Building things, solving problems, and occasionally wondering why the code worked five minutes ago.
 
-## 🚀 About Me
-
-* 💼 Currently: **Looking for my first developer job**
-* 🌱 Learning soon: **SQL, Unity, HTML, CSS, React**
-* 🧠 I enjoy solving problems and improving my coding skills every day
-* 🎯 Goal: **Become a professional software developer and work on real-world projects**
-* ⚡ Fun fact: I started with low-level languages like C/C++ and built my way up
+- 🎓 Computer Science student at AUTH
+- 🚀 Interested in Backend Development & Software Engineering
+- 🏎️ Software & Telemetry Subteam Member at Aristurtle Formula Student
+- 🌱 Always learning something new
+- ☕ Powered by coffee and questionable debugging decisions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 📚 Learning Soon
+**Databases & Tools**
 
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![QuestDB](https://img.shields.io/badge/QuestDB-111111?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 📝 [NoteApp](https://github.com/XM-George/NoteApp)
+A Java Swing desktop note-taking application featuring a custom A4 workspace, document management, Undo/Redo, and Print Preview.
+
+### 🚗 [Car Rent App](https://github.com/XM-George/Car-Rent-App)
+A Java desktop application for car rental management, featuring user authentication, vehicle management, bookings, and persistent storage.
+
+### 🌳 [Data Structures Demo](https://github.com/XM-George/Data-Structures-Demo)
+A C++ implementation of fundamental data structures and algorithms, including AVL Trees, Graphs, Heaps, and Hash Tables.
+
+### 🃏 [Blackjack Game](https://github.com/XM-George/BlackJack-Game)
+A command-line Blackjack game built in C. Because sometimes debugging a card game is harder than playing one.
 
 
 ---
 
+### 💬 A little about my coding philosophy
 
-## ⚙️ What I'm Working On
+Code. Build. Break. Debug. Repeat.
 
-* Personal custom note app project
-* Improving my programming fundamentals
-* Building small projects to strengthen my portfolio
-* Preparing for my first job in tech
+Always curious, always building something.
 
----
-
-## 🌍 Connect With Me
-
-* 📫 Feel free to reach out
-* georgeanezinis@gmail.com
-
----
-
-⭐️ From xm-george
